@@ -21,18 +21,18 @@ There is no reason to use older versions of OBS such as `v25.0.8` or `v27`. -->
 `Recording & Streaming settings`
 
 ## Fine tune OBS
-`Replay Buffer` - Use OBS like Shadowplay!
-`Advanced` - Configure colors and process priority
-`Hotkeys` - Add granualar control through essential hotkeys
-`Video` - Set your resolution, scale, and FPS
-`Layout` - Scenes, sources, and **always running OBS as Administrator**
+- `Replay Buffer` - Use OBS like Shadowplay!
+- `Advanced` - Configure colors and process priority
+- `Hotkeys` - Add granualar control through essential hotkeys
+- `Video` - Set your resolution, scale, and FPS
+- `Layout` - Scenes, sources, and **always running OBS as Administrator**
 
 # Frequently asked questions about OBS
-`(NVIDIA) Which CQ level should I use on OBS?`
-`What to stop encoding lag?`
-`Why is my clip laggy?`
+- `(NVIDIA) Which CQ level should I use on OBS?`
+- `What to stop encoding lag?`
+- `Why is my clip laggy?`
 
 # Miscellaneous threads about OBS
-`Isolate specific window's audio track`
-`Open OBS silently with Replay Buffer already running`
-`Add noise cancellation filter` - OBS' alternative to RTX Noise / Krisp
+- `Isolate specific window's audio track`
+- `Open OBS silently with Replay Buffer already running`
+- `Add noise cancellation filter` - OBS' alternative to RTX Noise / Krisp
