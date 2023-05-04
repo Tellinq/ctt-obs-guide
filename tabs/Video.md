@@ -1,7 +1,7 @@
 ## Base (Canvas) and Output (Scaled) Resolution
 **Keep them the same**
 
-If you wish to stratch your video, do it __after recording__ with a nice FFmpeg filter.
+If you wish to stretch/scale your video, do it __after recording__ with a nice FFmpeg filter, otherwise you'll be sacrificing performance.
 
 ## Downscaling filter
 You will be blocked from changing this, ignore.
